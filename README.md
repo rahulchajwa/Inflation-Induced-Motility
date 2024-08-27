@@ -1,7 +1,7 @@
 # Inflation-Induced-Motility
 These codes are used in the manuscript bioRxiv 2022.08.19.504465; doi: https://doi.org/10.1101/2022.08.19.504465 to get Figure 4 e & f
 
-criticality.m is used to numerically integrate ODE equation 4 in the manuscript, to calculate the critical radius to escape the "gravity trap" for a range of cytoplasmic densities, yielding Fig. 4f (compared with the analytical solution red-curve given in the manuscript)
+criticality.m is used to numerically integrate ODE equation 4 in the manuscript, to calculate the critical radius to escape the "gravity trap" for a range of cytoplasmic densities, yielding Fig. 4f (compared with the analytical solution blue-curve given in the manuscript)
 ![phase1](https://github.com/user-attachments/assets/542e36b9-c7bc-43aa-8ac0-ad16c2b9641f)
 
 
