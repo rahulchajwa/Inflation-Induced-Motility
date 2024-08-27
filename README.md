@@ -5,4 +5,6 @@ criticality.m is used to numerically integrate ODE equation 4 in the manuscript,
 
 slingshot_oscillation.m is used to numerically integrate the ODE equation 4 to get the trajectories of the cell in the vertical ocean column over multiple cell cycles, giving Figure 4e for three different cytoplasmic densities.
 
+In both the codes we use the experimentally observed pycnocline in the cruise HOT317 -- sea water density as a function of depth.
+
 The codes are written in MATLAB and uses function ODE45, based on the Runge Kutta method.
